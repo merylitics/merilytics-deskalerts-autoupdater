@@ -1,0 +1,1 @@
+# merilytics-deskalerts-autoupdater
