@@ -12,9 +12,7 @@ Desktop alerts are a perfect way to deliver your communications to staff in a wa
 
 This is how typical desktop alert may look like:
 
-``![Graphical user interface, text, application, email
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.001.png)
+![Graphical user interface, text, application, email Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.001.png)
 
 The desktop alert content isn’t limited by plain text - in fact, it can contain anything you could’ve put in the email otherwise - like images, tables, attached documents, hyperlinks to other sources of content or documentation, etc.
 
@@ -58,17 +56,12 @@ Content creators familiar with HTML can modify the source code of a message dire
 
 Use the Preview button (there’s one at the bottom) to verify that the content is being displayed in a way you need it to. The preview is the closest representation of how your message will appear on end-users’ screens, considering all selected settings and pop-up size.
 
-![Graphical user interface, application
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.003.png)
+![Graphical user interface, application Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.003.png)
 
 ***Note:** that slight differences between alert preview and resulting on-screen pop-up may exist:*
 
-![Graphical user interface, text
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.004.png)![Graphical user interface, text, application, email
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.005.png)
+![Graphical user interface, text Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.004.png)
+![Graphical user interface, text, application, email Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.005.png)
 
 Pop-up alert has creation date displayed and slightly different styles may be applied depending on the receiving workstation configuration (font scaling, accessibility features, different OS than sender), so it’s common practice to send a message to yourself first before deploying it to a wider audience.
 
@@ -84,9 +77,7 @@ Note that the message delivery delay to desktops may be anywhere from a few seco
 
 Based on the need and the data we provide in the alert; dimensions can be adjusted. The default dimensions are 650 pixels wide by 450 pixels high. These dimensions cannot exceed 850 pixels wide and 550 pixels high, respectively.
 
-![Graphical user interface, application
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.006.png)
+![Graphical user interface, application Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.006.png)
 
 **Scheduling**
 
@@ -97,9 +88,7 @@ Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a99
 - Messages that will recur, following a specified pattern, such as “deliver each Friday at 5PM until the end of time” .
 - This is useful when you’re setting up notifications for scheduled maintenance or recurring activities.
 
-![Graphical user interface, application
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.007.png)
+![Graphical user interface, application Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.007.png)
 
 #
 
@@ -124,9 +113,7 @@ report for individual alert can be accessed by :
 
 - By accessing alerts history from *Alerts > Sent* menu item, searching for your alert, then hitting the “info” icon in the Actions column. On click count of recipients pop up list is displayed and can be downloaded using Export icon in top most right corner.
 
-![Graphical user interface
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.009.jpeg)
+![Graphical user interface Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.009.jpeg)
 
 # **DeskAlerts support Surveys**
 
@@ -152,9 +139,7 @@ There are four question types you can use in your surveys:
 
 “**Multiple choice**” suggests a question with several answer options, allowing each user to select as many as they like, with the minimum of one.
 
-![A picture containing chart
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.011.png)
+![A picture containing chart Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.011.png)
 
 **“Linear scale**”
 
@@ -187,6 +172,4 @@ displaying the most recent alert first. By clicking on the subject of each alert
 
 ``Task manager extension > desk alerts icon > right click m icon > History
 
-![Graphical user interface, application, Word
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.015.png)                               ![](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.016.jpeg)
+![Graphical user interface, application, Word Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.015.png)                  ![](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.016.jpeg)
