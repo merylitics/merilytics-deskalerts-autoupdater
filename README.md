@@ -143,9 +143,7 @@ There are four question types you can use in your surveys:
 
 **“Linear scale**”
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.012.png)
+![Graphical user interface, text, application, email Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.012.png)
 
 “**Text answer**” allows end-users to give extended text answer .
 
@@ -170,6 +168,6 @@ The history tab contains a list of all the received alerts along with the time a
 
 displaying the most recent alert first. By clicking on the subject of each alert, you can view it.
 
-``Task manager extension > desk alerts icon > right click m icon > History
+Task manager extension > desk alerts icon > right click m icon > History
 
 ![Graphical user interface, application, Word Description automatically generated](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.015.png)                  ![](Aspose.Words.d8f247a2-682b-4367-aad0-e38a994e4fe5.016.jpeg)
